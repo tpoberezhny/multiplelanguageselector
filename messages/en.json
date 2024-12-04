@@ -1,0 +1,22 @@
+{
+  "NavbarLinks": {
+    "home": "Home",
+    "homeTitle": "Home Page",
+    "about": "About",
+    "aboutTitle": "About Page",
+    "contact": "Contact",
+    "contactTitle": "Contact Page"
+  },
+  "HomePage": {
+    "title": "Landing Page",
+    "description": "This is a landing page"
+  },
+  "AboutPage": {
+    "title": "About Page",
+    "description": "This is an about page"
+  },
+  "ContactPage": {
+    "title": "Contact Page",
+    "description": "This is a contact page"
+  }
+}

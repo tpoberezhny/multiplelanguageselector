@@ -1,0 +1,22 @@
+{
+  "NavbarLinks": {
+    "home": "Domov",
+    "homeTitle": "Domovská stránka",
+    "about": "Služby",
+    "aboutTitle": "O službach",
+    "contact": "Kontakt",
+    "contactTitle": "Kontaktní stránka"
+  },
+  "HomePage": {
+    "title": "Vstupní stránka",
+    "description": "Toto je úvodní stránka"
+  },
+  "AboutPage": {
+    "title": "O službach",
+    "description": "Toto je stránka o službach"
+  },
+  "ContactPage": {
+    "title": "Kontaktní stránka",
+    "description": "Toto je kontaktní stránka"
+  }
+}
